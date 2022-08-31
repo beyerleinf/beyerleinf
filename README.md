@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fabian!
 
-_Full-Stack Software Developer for [Balluff](https://balluff.com)._
+_Full-Stack Engineer for [PowerUs](https://powerus.de) - the career platform for skilled blue-collar workers._
 
 [![GitHub followers](https://img.shields.io/github/followers/beyerleinf?style=flat-square)](https://github.com/beyerleinf) [![LinkedIn](https://img.shields.io/badge/-Fabian%20Beyerlein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyerleinf) [![Medium](https://img.shields.io/badge/-@beyerleinf-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@beyerleinf) [![Twitter](https://img.shields.io/badge/-@fabibey-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fabibey) [![Twitch](https://img.shields.io/badge/-DazeCodes-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.com/DazeCodes) [![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/vs1sgt54fsfuxjrhh0ekr7j12?si=3cfc7288c2a64b5d) [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?style=flat-square&logo=last.fm&logoColor=white)](https://www.last.fm/user/dazeeeh)
 
