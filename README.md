@@ -30,6 +30,9 @@ _Passionate about solutions that make an impact._
 
 ![CPU](https://img.shields.io/badge/-Ryzen%207%202700X-ED1C24?style=flat-square&logo=amd&logoColor=white) ![Motherboard](https://img.shields.io/badge/-ROG%20Crosshair%20VI%20Hero-000000?style=flat-square&logo=asus&logoColor=white) ![RAM](https://img.shields.io/badge/-32GB%20Corsair%20Vengeance-000000?style=flat-square&logo=corsair&logoColor=white) ![GPU](https://img.shields.io/badge/-GTX%201080-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-![Metrics](https://raw.githubusercontent.com/beyerleinf/beyerleinf/main/github-metrics.svg)
+![Metrics](github-metrics.svg)
+![Languages](languages.svg)
+![Notable Contributions](notable.svg)
+![Achievements](achievements.svg)
 
 [![@beyerleinf's Holopin board](https://holopin.io/api/user/board?user=beyerleinf)](https://holopin.io/@beyerleinf)
