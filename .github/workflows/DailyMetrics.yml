@@ -11,14 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.28
         with:
-          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
-
-          # Options
           user: beyerleinf
           template: classic
           base: header, activity, community
@@ -29,14 +22,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.28
         with:
-          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
-
-          # Options
           user: beyerleinf
           template: classic
           base: ""
@@ -44,8 +30,6 @@ jobs:
           config_timezone: Europe/Berlin
           config_output: svg
           filename: notable.svg
-
-          # Notable contributions
           plugin_notable: yes
           plugin_notable_filter: stars:>25
 
@@ -54,14 +38,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.28
         with:
-          # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
-
-          # Options
           user: beyerleinf
           template: classic
           base: ""
@@ -70,8 +47,6 @@ jobs:
           config_output: svg
           filename: achievements.svg
           repositories_batch: 5
-
-          # Achievement plugin
           plugin_achievements: yes
           plugin_achievements_threshold: C
           plugin_achievements_secrets: yes
