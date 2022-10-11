@@ -16,7 +16,7 @@
 
 _Passionate about solutions that make an impact._
 
-**Full Stack Engineer at [PowerUs (YC S20)](https:/powerus.de)**
+**Full Stack Engineer at [PowerUs (YC S20)](https://powerus.de)**
 
 ## Technologies I use
 
