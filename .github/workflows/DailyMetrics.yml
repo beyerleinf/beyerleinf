@@ -9,7 +9,7 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.28
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: beyerleinf
@@ -32,7 +32,7 @@ jobs:
   notable:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.28
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: beyerleinf
@@ -49,7 +49,7 @@ jobs:
   languages:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.28
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: beyerleinf
@@ -74,7 +74,7 @@ jobs:
   achievements:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3.28
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: beyerleinf
