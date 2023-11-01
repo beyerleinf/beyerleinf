@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Twitter](https://img.shields.io/badge/-@byrln-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/byrln) [![LinkedIn](https://img.shields.io/badge/-Fabian%20Beyerlein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyerleinf) [![Blog](https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://blog.beyerleinf.de)
+[![LinkedIn](https://img.shields.io/badge/-Fabian%20Beyerlein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyerleinf) [![Blog](https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://blog.beyerleinf.de)
 
 <div align="left">
   <a href="https://app.daily.dev/beyerleinf" target="_blank">
@@ -16,7 +16,7 @@
 
 _Passionate about solutions that make an impact._
 
-**Full Stack Engineer at [PowerUs (YC S20)](https://powerus.de)**
+**Tech Lead at [PowerUs (YC S20)](https://powerus.de)**
 
 ## Technologies I use
 
