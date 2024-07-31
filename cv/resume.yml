@@ -1,0 +1,143 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/cv.typ/main/cv.typ.schema.json
+
+personal:
+  name: Fabian Beyerlein
+  email: hire-me@beyerleinf.de
+  url: https://blog.beyerleinf.de
+  location:
+    region: Baden-Württemberg
+    country: Germany
+  profiles:
+    - network: LinkedIn
+      username: Fabian Beyerlein
+      url: https://linkedin.com/in/beyerleinf
+    - network: GitHub
+      username: beyerleinf
+      url: https://github.com/beyerleinf
+
+work:
+  - organization: PowerUs GmbH
+    url: https://powerus.de
+    location: Remote / Berlin, Germany
+    positions:
+      - position: Tech Lead
+        startDate: 2023-06-01
+        endDate: "present"
+        highlights:
+          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
+          - Mentoring of other Full Stack Engineers and coordination and distribution of refactoring tasks.
+          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
+      - position: Senior Full Stack Engineer
+        startDate: 2023-01-01
+        endDate: 2023-05-31
+        highlights:
+          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
+          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
+          - Member of the cross-functional DevOps team.
+          - Fast-Track to Tech Lead after 5 months.
+      - position: Full Stack Engineer
+        startDate: 2022-08-01
+        endDate: 2022-12-31
+        highlights:
+          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
+          - Developed Mobile App from scratch using Capacitor.
+          - Member of the cross-functional DevOps team.
+  - organization: Balluff GmbH
+    url: https://balluff.com
+    location: Neuhausen a.d.F., Germany
+    positions:
+      - position: Software Developer
+        startDate: 2017-07-21
+        endDate: 2022-07-31
+        highlights:
+          - Lead Developer in internal Startup.
+          - Development of full-stack cloud applications using Microsoft Azure, Node.js, TypeScript and Angular 10+.
+          - Development of full-stack applications using Node.js, TypeScript and Angular 4+.
+      - position: Apprentice
+        startDate: 2014-08-01
+        endDate: 2017-07-20
+        highlights:
+          - Helped develop a distributed traffic light system for intralogistics with .NET and WPF (customer project).
+          - Developed Android Apps (using NFC and ZXing).
+          - Developed Desktop software with .NET and WPF (MVVM).
+
+education:
+  - institution: it.schule Stuttgart
+    url: https://www.its-stuttgart.de/
+    area: "Computer Science Expert: Software Development"
+    studyType: Apprenticeship
+    startDate: 2014-08-01
+    endDate: 2017-07-20
+    location: Stuttgart, Germany
+
+projects:
+  - name: esbuild-azure-functions
+    url: https://github.com/beyerleinf/esbuild-azure-functions
+    affiliation: Hobby Project
+    startDate: 2022-02-01
+    endDate: "present"
+    highlights:
+      - Created a build tool for Azure Functions using esbuild to reduce the build time from 30 seconds to 1 second.
+  - name: Covid Dashboard
+    url: https://github.com/beyerleinf/rki-covid-dashboard
+    affiliation: Hobby Project
+    startDate: 2020-12-01
+    endDate: 2022-11-01
+    highlights:
+      - Created a Covid Dashboard to visualize the development of the Covid-19 pandemic in Germany.
+      - Used Angular, Apache ECharts & GitHub Actions. Based on public API.
+
+certificates:
+  - name: C2 Proficient
+    date: 2021-03-13
+    issuer: EF Standard English Test (EF SET)
+    url: https://cert.efset.org/5oH9LA
+  - name: Application Security and Secure Coding Training - Frontend Security Basics (expired)
+    date: 2020-03-01
+    issuer: Checkmarx
+
+skills:
+  - category: Soft Skills
+    skills:
+      - Communication
+      - Critical Thinking
+      - Technical Writing
+  - category: Programming
+    skills:
+      - JavaScript
+      - TypeScript
+      - Node.js
+      - MongoDB
+      - PostgreSQL
+      - HTML
+      - SCSS
+      - NestJS
+      - Angular
+      - C# & .NET
+      - Git
+      - Docker
+      - Visual Studio Code
+      - Capacitor
+  - category: DevOps
+    skills:
+      - Azure DevOps
+      - GitHub Actions
+      - Ansible
+      - Datadog
+      - Microsoft Azure
+      - Digital Ocean
+
+languages:
+  - language: German
+    fluency: Native speaker
+  - language: English
+    fluency: Proficient
+
+interests:
+  - Formula 1
+  - Basketball
+  - Photography
+  - Video Games
+  - Tinkering with new technologies
+
+references:
