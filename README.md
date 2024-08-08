@@ -16,7 +16,7 @@
 
 _Passionate about solutions that make an impact._
 
-**Tech Lead at [PowerUs (YC S20)](https://powerus.de)**
+**Staff Engineer at [PowerUs (YC S20)](https://powerus.de)**
 
 ## Technologies I use
 
