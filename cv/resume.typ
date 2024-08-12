@@ -51,6 +51,7 @@
 #cvaffiliations(cvdata)
 #cvprojects(cvdata)
 #cvskills(cvdata)
+#pagebreak()
 #cveducation(cvdata)
 #cvawards(cvdata)
 #cvcertificates(cvdata)

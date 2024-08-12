@@ -20,9 +20,16 @@ work:
     url: https://powerus.de
     location: Remote / Berlin, Germany
     positions:
+      - position: Staff Engineer
+        startDate: 2024-08-01
+        endDate: "present"
+        highlights:
+          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
+          - Being the go-to person for certain technical topics for engineers inside and outside my team.
+          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
       - position: Tech Lead
         startDate: 2023-06-01
-        endDate: "present"
+        endDate: 2024-07-31
         highlights:
           - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
           - Mentoring of other Full Stack Engineers and coordination and distribution of refactoring tasks.
