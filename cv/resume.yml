@@ -21,26 +21,22 @@ work:
     location: Remote / Berlin, Germany
     positions:
       - position: Staff Engineer
-        startDate: 2024-08-01
+        startDate: 2023-06-01
         endDate: "present"
         highlights:
           - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
           - Being the go-to person for certain technical topics for engineers inside and outside my team.
-          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
-      - position: Tech Lead
-        startDate: 2023-06-01
-        endDate: 2024-07-31
-        highlights:
-          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
           - Mentoring of other Full Stack Engineers and coordination and distribution of refactoring tasks.
-          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
+          - Technical responsibility for the entire backend including weekly communication with other Engineers on architecture and current refactorings.
+          - Member of the DevOps guild.
+          - Title changed from Tech Lead to Staff Engineer in August 2024
       - position: Senior Full Stack Engineer
         startDate: 2023-01-01
         endDate: 2023-05-31
         highlights:
           - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
           - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
-          - Member of the cross-functional DevOps team.
+          - Member of the cross-functional DevOps guild.
           - Fast-Track to Tech Lead after 5 months.
       - position: Full Stack Engineer
         startDate: 2022-08-01
@@ -48,7 +44,7 @@ work:
         highlights:
           - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
           - Developed Mobile App from scratch using Capacitor.
-          - Member of the cross-functional DevOps team.
+          - Member of the cross-functional DevOps guild.
   - organization: Balluff GmbH
     url: https://balluff.com
     location: Neuhausen a.d.F., Germany
