@@ -7,6 +7,7 @@ personal:
   location:
     region: Baden-Württemberg
     country: Germany
+    city: ""
   profiles:
     - network: LinkedIn
       username: Fabian Beyerlein
@@ -24,27 +25,28 @@ work:
         startDate: 2023-06-01
         endDate: "present"
         highlights:
-          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
-          - Being the go-to person for certain technical topics for engineers inside and outside my team.
-          - Mentoring of other Full Stack Engineers and coordination and distribution of refactoring tasks.
-          - Technical responsibility for the entire backend including weekly communication with other Engineers on architecture and current refactorings.
-          - Member of the DevOps guild.
+          - Reduced endpoint response time by up to 50% through strategic query optimization and database model improvements
+          - Established comprehensive monitoring for core systems, improving incident response time and system reliability
+          - Designed and implemented Salesforce integration that streamlined inbound lead process, resulting in improved sales team efficiency
+          - Led and mentored a team of 3 Full Stack Engineers while orchestrating major refactoring initiatives to improve code quality and maintainability
+          - Technical responsibility for the entire backend including weekly communication with other Engineers on architecture and current refactorings
+          - Member of the DevOps guild
           - Title changed from Tech Lead to Staff Engineer in August 2024
       - position: Senior Full Stack Engineer
         startDate: 2023-01-01
         endDate: 2023-05-31
         highlights:
-          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
-          - Technical responsibility for the entire backend including weekly communication with the CTO on architecture and current refactorings.
-          - Member of the cross-functional DevOps guild.
-          - Fast-Track to Tech Lead after 5 months.
+          - Led team in complete B2B platform redesign, focusing on user-centric improvements that enhanced customer experience and engagement
+          - Spearheaded development of employee review system, creating first-of-its-kind transparency feature in the blue-collar job market
+          - Led technical responsibility for backend architecture while achieving Fast-Track promotion to Tech Lead in 5 months, demonstrating exceptional technical leadership and delivery capabilities
+          - Member of the cross-functional DevOps guild
       - position: Full Stack Engineer
         startDate: 2022-08-01
         endDate: 2022-12-31
         highlights:
-          - Implementation of a job platform for blue-collar workers based on TypeScript, Node.js, NestJS and Angular.
-          - Developed Mobile App from scratch using Capacitor.
-          - Member of the cross-functional DevOps guild.
+          - Led the initiative to setup a Mobile app of the platform, finishing the PoC ahead of schedule while communicating the progress to the company through the OKR process
+          - Implemented the mobile version of the community platform
+          - Member of the cross-functional DevOps guild
   - organization: Balluff GmbH
     url: https://balluff.com
     location: Neuhausen a.d.F., Germany
@@ -53,16 +55,19 @@ work:
         startDate: 2017-07-21
         endDate: 2022-07-31
         highlights:
-          - Lead Developer in internal Startup.
-          - Development of full-stack cloud applications using Microsoft Azure, Node.js, TypeScript and Angular 10+.
-          - Development of full-stack applications using Node.js, TypeScript and Angular 4+.
+          - Led core development of inventory monitoring system in startup environment, balancing rapid innovation with enterprise requirements
+          - Handled installations of the system on customer sites
+          - Took over internal training of our customer support team
+          - Coordinated communication protocols of sensors with the sensor engineers
+          - Supported the Standards Team in creating shared components in Angular
+          - Architected and developed complete Tool Identification system, enabling faster tool changeover and reducing errors in user input to increase tool lifetime
       - position: Apprentice
         startDate: 2014-08-01
         endDate: 2017-07-20
         highlights:
-          - Helped develop a distributed traffic light system for intralogistics with .NET and WPF (customer project).
-          - Developed Android Apps (using NFC and ZXing).
-          - Developed Desktop software with .NET and WPF (MVVM).
+          - Contributed to mission-critical customer projects including development of an intralogistics traffic management system, demonstrating early ability to deliver production-grade software
+          - Built multiple mobile and desktop applications incorporating emerging technologies like NFC, demonstrating rapid technical learning and versatility
+          - Gained comprehensive full-stack experience through hands-on development using .NET, WPF, and Android platforms
 
 education:
   - institution: it.schule Stuttgart
@@ -72,6 +77,7 @@ education:
     startDate: 2014-08-01
     endDate: 2017-07-20
     location: Stuttgart, Germany
+    highlights: []
 
 projects:
   - name: esbuild-azure-functions
@@ -92,10 +98,12 @@ projects:
 
 certificates:
   - name: C2 Proficient
+    id: ""
     date: 2021-03-13
     issuer: EF Standard English Test (EF SET)
     url: https://cert.efset.org/5oH9LA
   - name: Application Security and Secure Coding Training - Frontend Security Basics (expired)
+    id: ""
     date: 2020-03-01
     issuer: Checkmarx
 
@@ -105,29 +113,30 @@ skills:
       - Communication
       - Critical Thinking
       - Technical Writing
-  - category: Programming
+  - category: Frontend
     skills:
       - JavaScript
       - TypeScript
-      - Node.js
-      - MongoDB
-      - PostgreSQL
       - HTML
       - SCSS
-      - NestJS
       - Angular
-      - C# & .NET
-      - Git
-      - Docker
-      - Visual Studio Code
-      - Capacitor
-  - category: DevOps
+      - Svelte
+  - category: Backend
     skills:
+      - Node.js
+      - NestJS
+      - MongoDB
+      - PostgreSQL
+      - Go
+  - category: Cloud & DevOps
+    skills:
+      - Docker
       - Azure DevOps
       - GitHub Actions
       - Ansible
       - Datadog
       - Microsoft Azure
+      - Hetzner Cloud
       - Digital Ocean
 
 languages:
