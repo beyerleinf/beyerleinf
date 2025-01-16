@@ -2,16 +2,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Fabian%20Beyerlein-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/beyerleinf) [![Blog](https://img.shields.io/badge/-Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://blog.beyerleinf.de)
 
-<div align="left">
-  <a href="https://app.daily.dev/beyerleinf" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/beyerleinf/beyerleinf/main/devcard.svg"
-    />
-  </a>
-</div>
-
 ## I'm Fabian Beyerlein
 
 _Passionate about solutions that make an impact._
