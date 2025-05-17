@@ -6,7 +6,7 @@
 
 _Passionate about solutions that make an impact._
 
-**Staff Engineer at [PowerUs (YC S20)](https://powerus.de)**
+**Staff SRE at [PowerUs (YC S20)](https://powerus.de)**
 
 ## Technologies I use
 
